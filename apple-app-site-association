@@ -2,7 +2,7 @@
     "applinks": {
         "apps": [],
         "details": [{
-            "appID": "teamId.com.ridy",
+            "appID": "YKAE2UD4K8.com.ridy",
             "paths": ["/login/mail/*"]
         }]
     }
