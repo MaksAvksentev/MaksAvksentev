@@ -2,8 +2,8 @@
     "applinks": {
         "apps": [],
         "details": [{
-            "appID": "KC9LDG6439.com.ridy",
-            "paths": ["/login/mail/*"]
+            "appID": "J784LH32NT.com.UniversalLinks.test",
+            "paths": ["*"]
         }]
     }
 }
