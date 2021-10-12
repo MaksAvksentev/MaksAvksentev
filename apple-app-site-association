@@ -1,11 +1,10 @@
 {
   "applinks": {
-    "apps": [],
     "details": [
       {
         "appID": "QTLMK9CN3H.com.1m.marketplace",
         "paths": [
-          "/": "*"
+          "*"
         ]
       }
     ]
