@@ -3,9 +3,9 @@
     "apps": [],
     "details": [
       {
-        "appID": "99CK5NQUD3.com.UniversalLinks.testing",
+        "appID": "QTLMK9CN3H.com.1m.marketplace",
         "paths": [
-          "*"
+          "/": "*"
         ]
       }
     ]
