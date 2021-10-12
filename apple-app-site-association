@@ -1,15 +1,13 @@
 {
   "applinks": {
-      "details": [
-           {
-             "appIDs": [ "QTLMK9CN3H.com.1m.marketplace" ],
-             "components": [
-                "*"
-             ]
-           }
-       ]
-   },
-   "webcredentials": {
-      "apps": [ "QTLMK9CN3H.com.1m.marketplace" ]
-   }
+    "apps": [],
+    "details": [
+      {
+        "appID": "QTLMK9CN3H.com.1m.marketplace",
+        "paths": [
+          "*"
+        ]
+      }
+     ]
+  }
 }
