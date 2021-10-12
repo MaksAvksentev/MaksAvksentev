@@ -1,9 +1,13 @@
 {
-    "applinks": {
-        "apps": [],
-        "details": [{
-            "appID": "99CK5NQUD3.com.UniversalLinks.testing",
-            "paths": ["*"]
-        }]
-    }
+  "applinks": {
+    "apps": [],
+    "details": [
+      {
+        "appID": “QTLMK9CN3H.com.1m.marketplace",
+        "paths": [
+          "*"
+        ]
+      }
+    ]
+  }
 }
